@@ -1,0 +1,15 @@
+/home/jack/Code/Send/bin/Debug/netcoreapp3.1/Send
+/home/jack/Code/Send/bin/Debug/netcoreapp3.1/Send.deps.json
+/home/jack/Code/Send/bin/Debug/netcoreapp3.1/Send.runtimeconfig.json
+/home/jack/Code/Send/bin/Debug/netcoreapp3.1/Send.runtimeconfig.dev.json
+/home/jack/Code/Send/bin/Debug/netcoreapp3.1/Send.dll
+/home/jack/Code/Send/bin/Debug/netcoreapp3.1/Send.pdb
+/home/jack/Code/Send/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/jack/Code/Send/obj/Debug/netcoreapp3.1/Send.csprojAssemblyReference.cache
+/home/jack/Code/Send/obj/Debug/netcoreapp3.1/Send.AssemblyInfoInputs.cache
+/home/jack/Code/Send/obj/Debug/netcoreapp3.1/Send.AssemblyInfo.cs
+/home/jack/Code/Send/obj/Debug/netcoreapp3.1/Send.csproj.CoreCompileInputs.cache
+/home/jack/Code/Send/obj/Debug/netcoreapp3.1/Send.csproj.CopyComplete
+/home/jack/Code/Send/obj/Debug/netcoreapp3.1/Send.dll
+/home/jack/Code/Send/obj/Debug/netcoreapp3.1/Send.pdb
+/home/jack/Code/Send/obj/Debug/netcoreapp3.1/Send.genruntimeconfig.cache

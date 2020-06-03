@@ -1,0 +1,15 @@
+/home/jack/Code/Receive/bin/Debug/netcoreapp3.1/Receive
+/home/jack/Code/Receive/bin/Debug/netcoreapp3.1/Receive.deps.json
+/home/jack/Code/Receive/bin/Debug/netcoreapp3.1/Receive.runtimeconfig.json
+/home/jack/Code/Receive/bin/Debug/netcoreapp3.1/Receive.runtimeconfig.dev.json
+/home/jack/Code/Receive/bin/Debug/netcoreapp3.1/Receive.dll
+/home/jack/Code/Receive/bin/Debug/netcoreapp3.1/Receive.pdb
+/home/jack/Code/Receive/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/home/jack/Code/Receive/obj/Debug/netcoreapp3.1/Receive.csprojAssemblyReference.cache
+/home/jack/Code/Receive/obj/Debug/netcoreapp3.1/Receive.AssemblyInfoInputs.cache
+/home/jack/Code/Receive/obj/Debug/netcoreapp3.1/Receive.AssemblyInfo.cs
+/home/jack/Code/Receive/obj/Debug/netcoreapp3.1/Receive.csproj.CoreCompileInputs.cache
+/home/jack/Code/Receive/obj/Debug/netcoreapp3.1/Receive.csproj.CopyComplete
+/home/jack/Code/Receive/obj/Debug/netcoreapp3.1/Receive.dll
+/home/jack/Code/Receive/obj/Debug/netcoreapp3.1/Receive.pdb
+/home/jack/Code/Receive/obj/Debug/netcoreapp3.1/Receive.genruntimeconfig.cache
