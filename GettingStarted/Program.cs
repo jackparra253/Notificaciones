@@ -21,7 +21,7 @@ namespace GettingStarted
                 {
                     ep.Handler<Message>(context =>
                     {
-                        return Console.Out.WriteLineAsync($"Received: {context.Message.Text}");
+                        return Console.Out.WriteLineAsync($"Received: {context.Message.Text} , { context.CorrelationId }");
                     });
                 });
             });
